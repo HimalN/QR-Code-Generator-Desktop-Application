@@ -1,0 +1,11 @@
+/* Change the background color of the text field */
+.text-field {
+    -fx-background-color: #dfe6e9;
+    -fx-text-fill: #ffffff; /* Text color */
+    -fx-border-color: #0984e3; /* Optional border color */
+    -fx-border-radius: 5; /* Optional rounded corners */
+    -fx-background-radius: 5;
+}
+.text-area{
+    -fx-background-color: #dfe6e9;
+}
